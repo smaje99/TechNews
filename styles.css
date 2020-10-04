@@ -175,13 +175,17 @@ hr {
 }
 
 .cards-banner-two .content {
-    width: 50%;
+    width: 60%;
     padding: 100px 0 0 30px;
 }
 
 .cards-banner-two p,
 .cards-banner-two h2 {
     margin: 10px 0 20px 0;
+}
+
+.cards-banner-two a {
+    margin-bottom: 60px;
 }
 
 /* Social */
@@ -289,6 +293,7 @@ hr {
     .cards-banner-one .content,
     .cards-banner-two .content {
         width: 80%;
+        padding: 60px 20px;
     }
 
     .footer-links .footer-container {
